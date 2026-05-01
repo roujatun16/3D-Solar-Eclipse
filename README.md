@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🌞 3D Solar Eclipse Simulation
 
 A Computer Graphics project developed using Python and OpenGL that simulates a **3D Solar Eclipse** with realistic visual effects.
@@ -67,3 +68,6 @@ python main.py
 
 The main objective of this project is to visualize a **solar eclipse simulation in 3D** while applying advanced computer graphics effects and animation techniques.
 
+=======
+# 3D-Solar-Eclipse
+>>>>>>> 3ee0eb786194bc74b4e06680dc44a465e3513066
