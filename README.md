@@ -67,7 +67,3 @@ python main.py
 ## 🎯 Project Objective
 
 The main objective of this project is to visualize a **solar eclipse simulation in 3D** while applying advanced computer graphics effects and animation techniques.
-
-=======
-# 3D-Solar-Eclipse
->>>>>>> 3ee0eb786194bc74b4e06680dc44a465e3513066
